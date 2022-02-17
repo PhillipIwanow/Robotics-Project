@@ -4,6 +4,7 @@
 
 # Spiked Neuroon
 ![alt text](https://ars.els-cdn.com/content/image/1-s2.0-S0925231219315474-gr1.jpg)
+unlike tradional neurons which output a singular continous value as output, use weights to adjust the output and work in singular discrete timesteps. Spiked Neurons work in continous time space where its output is singular discrete value at said timestep. To update the rate which the neuron fires you adjust the capacitance of the neuron.
 
 # result
 
